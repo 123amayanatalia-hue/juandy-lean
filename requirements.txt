@@ -1,0 +1,2 @@
+streamlit>=1.50
+segno>=1.5
